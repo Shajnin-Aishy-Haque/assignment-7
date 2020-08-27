@@ -1,0 +1,27 @@
+.course{
+    margin: 25px 0px;
+    border-bottom: 1px solid gray;
+    padding: 20px;
+}
+.course-name{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.add-button{
+    background-color: tomato;
+    width:250px;
+    height: 50px;
+    border: 1px solid  rgb(250, 122, 133);
+    border-radius: 7px;
+    cursor: pointer;
+    font-weight:400 ;
+    font-size: 30px;
+    margin-top:10px;
+}
+.type{
+    height: 30px;
+    border:1px solid rgb(240, 206, 55);
+   
+
+}
